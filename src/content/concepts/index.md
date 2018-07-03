@@ -25,6 +25,11 @@ T> 可以从[这里](/concepts/modules)了解更多关于 JavaScript 模块和 w
 
 本文档旨在给出这些概念的**高度**概述，同时提供具体概念的详尽相关用例。
 
+为了更好地理解模块打包的思想以及它们底层是怎样工作的，可以查阅以下资源：
+
+- [手动打包一个应用](https://www.youtube.com/watch?v=UNMkLHzofQI)
+- [现场写一个简单模块打包器](https://www.youtube.com/watch?v=Gc9-7PBqOC8)
+- [一个简单模块打包器详解](https://github.com/ronami/minipack)
 
 ## 入口(entry)
 
